@@ -1,0 +1,10 @@
+pyrogram==2.0.106
+tgcrypto
+motor
+pymongo
+aiohttp
+psutil
+speedtest-cli
+google-auth
+google-api-python-client
+python-dotenv
